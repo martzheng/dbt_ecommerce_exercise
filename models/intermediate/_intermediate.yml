@@ -1,0 +1,4 @@
+models:
+  - name: int_orders_enriched
+    description: >
+      One row per order with aggregated revenue, cost, and item metrics.
