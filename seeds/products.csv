@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,product_cost
+1,Product 01,Clothing,34.94,22.59
+2,Product 02,Home,62.02,39.98
+3,Product 03,Clothing,187.24,106.38
+4,Product 04,Beauty,110.11,39.85
+5,Product 05,Home,64.3,37.99
+6,Product 06,Beauty,56.12,34.23
+7,Product 07, electronics ,109.52,58.01
+8,Product 08,Sports,203.88,71.89
+9,Product 09,Home,176.95,86.02
+10,Product 10,Home,60.11,39.4
+11,Product 11,Electronics,30.44,11.83
+12,Product 12,Sports,154.1,103.69
+13,Product 13,Clothing,119.18,47.66
+14,Product 14,Books,27.07,12.65
+15,Product 15,Clothing,157.68,109.54
+16,Product 16,Beauty,54.53,20.6
+17,Product 17,Clothing,63.15,29.41
+18,Product 18,Electronics,214.99,149.76
+19,  Product 19  ,Books,75.27,45.48
+20,Product 20,Sports,47.36,23.31
+21,Product 21,Clothing,72.61,52.62
+22,Product 22,Clothing,25.28,15.27
+23,Product 23,Beauty,184.45,76.61
+24,Product 24,Books,73.33,52.81
+25,Product 25,Clothing,142.78,89.07
+26,Product 26,,63.43,23.01
+27,Product 27,Sports,105.08,39.56
+28,Product 28,Beauty,220.08,104.73
+29,Product 29,Clothing,128.81,90.67
+30,Product 30,Clothing,119.04,54.28
