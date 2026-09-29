@@ -1,4 +1,5 @@
 models:
-  - name: int_orders_enriched
+  - name: int_order_items_enriched
     description: >
-      One row per order with aggregated revenue, cost, and item metrics.
+      Enriched order item dataset with one row per order item.
+      Includes product information, revenue, cost, and gross profit.
