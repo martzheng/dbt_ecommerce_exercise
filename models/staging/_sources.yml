@@ -8,4 +8,4 @@ sources:
       - name: orders
       - name: products
       - name: order_items
-      - name: payments1
+      - name: payments
