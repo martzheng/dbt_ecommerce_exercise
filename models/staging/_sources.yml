@@ -8,5 +8,5 @@ sources:
       - name: orders
       - name: products
       - name: order_items
-      - name: payments_wooooow
+      - name: payments
       
